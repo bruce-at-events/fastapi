@@ -5,7 +5,7 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    commit-message:
+    commit-message: "Dependabots"
       prefix: ⬆
   # Python
   - package-ecosystem: "pip"
